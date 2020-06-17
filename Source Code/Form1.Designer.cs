@@ -37,9 +37,9 @@
             // 
             // btn1
             // 
-            this.btn1.Location = new System.Drawing.Point(222, 134);
+            this.btn1.Location = new System.Drawing.Point(190, 116);
             this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(89, 52);
+            this.btn1.Size = new System.Drawing.Size(76, 45);
             this.btn1.TabIndex = 0;
             this.btn1.Text = "Jugar";
             this.btn1.UseVisualStyleBackColor = true;
@@ -47,9 +47,9 @@
             // 
             // btn2
             // 
-            this.btn2.Location = new System.Drawing.Point(222, 207);
+            this.btn2.Location = new System.Drawing.Point(190, 179);
             this.btn2.Name = "btn2";
-            this.btn2.Size = new System.Drawing.Size(89, 52);
+            this.btn2.Size = new System.Drawing.Size(76, 45);
             this.btn2.TabIndex = 1;
             this.btn2.Text = "Puntajes";
             this.btn2.UseVisualStyleBackColor = true;
@@ -57,9 +57,9 @@
             // 
             // btn3
             // 
-            this.btn3.Location = new System.Drawing.Point(222, 282);
+            this.btn3.Location = new System.Drawing.Point(190, 244);
             this.btn3.Name = "btn3";
-            this.btn3.Size = new System.Drawing.Size(89, 52);
+            this.btn3.Size = new System.Drawing.Size(76, 45);
             this.btn3.TabIndex = 2;
             this.btn3.Text = "Salir";
             this.btn3.UseVisualStyleBackColor = true;
@@ -67,21 +67,20 @@
             // 
             // lbl1
             // 
-            this.lbl1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold,
-                System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lbl1.Location = new System.Drawing.Point(126, 18);
+            this.lbl1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.lbl1.Location = new System.Drawing.Point(108, 16);
             this.lbl1.Name = "lbl1";
-            this.lbl1.Size = new System.Drawing.Size(274, 73);
+            this.lbl1.Size = new System.Drawing.Size(235, 63);
             this.lbl1.TabIndex = 3;
             this.lbl1.Text = "ARKANOID";
             this.lbl1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(542, 395);
+            this.ClientSize = new System.Drawing.Size(465, 342);
             this.Controls.Add(this.lbl1);
             this.Controls.Add(this.btn3);
             this.Controls.Add(this.btn2);
@@ -92,11 +91,11 @@
             this.ResumeLayout(false);
         }
 
-        #endregion
-
-        private System.Windows.Forms.Button btn2;
         private System.Windows.Forms.Button btn1;
-        private System.Windows.Forms.Label lbl1;
+        private System.Windows.Forms.Button btn2;
         private System.Windows.Forms.Button btn3;
+        private System.Windows.Forms.Label lbl1;
+
+        #endregion
     }
 }

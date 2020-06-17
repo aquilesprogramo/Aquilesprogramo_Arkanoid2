@@ -37,9 +37,9 @@ namespace Arkanoid
             // 
             // btn1
             // 
-            this.btn1.Location = new System.Drawing.Point(174, 78);
+            this.btn1.Location = new System.Drawing.Point(149, 68);
             this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(85, 46);
+            this.btn1.Size = new System.Drawing.Size(73, 40);
             this.btn1.TabIndex = 0;
             this.btn1.Text = "Register";
             this.btn1.UseVisualStyleBackColor = true;
@@ -47,9 +47,9 @@ namespace Arkanoid
             // 
             // btn2
             // 
-            this.btn2.Location = new System.Drawing.Point(174, 170);
+            this.btn2.Location = new System.Drawing.Point(149, 147);
             this.btn2.Name = "btn2";
-            this.btn2.Size = new System.Drawing.Size(85, 46);
+            this.btn2.Size = new System.Drawing.Size(73, 40);
             this.btn2.TabIndex = 1;
             this.btn2.Text = "Login";
             this.btn2.UseVisualStyleBackColor = true;
@@ -57,10 +57,10 @@ namespace Arkanoid
             // 
             // OptionUser
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(447, 308);
+            this.ClientSize = new System.Drawing.Size(383, 267);
             this.Controls.Add(this.btn2);
             this.Controls.Add(this.btn1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
@@ -69,9 +69,9 @@ namespace Arkanoid
             this.ResumeLayout(false);
         }
 
-        #endregion
-
         private System.Windows.Forms.Button btn1;
         private System.Windows.Forms.Button btn2;
+
+        #endregion
     }
 }

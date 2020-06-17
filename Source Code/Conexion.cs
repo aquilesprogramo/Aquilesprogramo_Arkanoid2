@@ -8,7 +8,7 @@ namespace Arkanoid
         private static string host = "127.0.0.1",
                             database = "proyectoPoo",
                             userId = "postgres",
-                            password = "090799";
+                            password = "Mufasa123";
                 
                         private static string sConnection =
                             $"Server={host};Port=5432;User Id={userId};Password={password};Database={database};";

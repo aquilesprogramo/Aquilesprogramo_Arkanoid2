@@ -8,7 +8,7 @@ namespace Arkanoid
         private int x = 10;
         private int t = 5;
         private int life = 5;
-        private int score=00;
+        private int score=0;
         private int ScoreMax = 18;
 
         public Game()
@@ -21,8 +21,8 @@ namespace Arkanoid
         {
             ball.Top += x;
             ball.Left += t;
-            label2.Text = "Score: " + score;
-            label14.Text = "Life: " + life;
+            lbl2.Text = "Score: " + score;
+            lbl14.Text = "Life: " + life;
 
             if (ball.Bottom > ClientSize.Height)
             {
