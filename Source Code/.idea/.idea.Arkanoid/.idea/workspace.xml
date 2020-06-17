@@ -29,24 +29,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/OptionUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Conexion.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Loading.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Login.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Form1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OptionUser.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Register.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Conexion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Register.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Register.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Loading.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OptionUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Register.Designer.cs" />
-        <option value="$PROJECT_DIR$/OptionUser.Designer.cs" />
-        <option value="$PROJECT_DIR$/Login.Designer.cs" />
         <option value="$PROJECT_DIR$/Loading.Designer.cs" />
         <option value="$PROJECT_DIR$/ListRecord.cs" />
         <option value="$PROJECT_DIR$/Score.Designer.cs" />
@@ -59,15 +58,19 @@
         <option value="$PROJECT_DIR$/Usuario.cs" />
         <option value="$PROJECT_DIR$/Actualizar.cs" />
         <option value="$PROJECT_DIR$/User.cs" />
-        <option value="$PROJECT_DIR$/Conexion.cs" />
         <option value="$PROJECT_DIR$/Score.cs" />
-        <option value="$PROJECT_DIR$/OptionUser.cs" />
-        <option value="$PROJECT_DIR$/Register.cs" />
-        <option value="$PROJECT_DIR$/Login.cs" />
-        <option value="$PROJECT_DIR$/Form1.cs" />
         <option value="$PROJECT_DIR$/Loading.cs" />
+        <option value="$PROJECT_DIR$/Conexion.cs" />
         <option value="$PROJECT_DIR$/Game.Designer.cs" />
         <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/Login.cs" />
+        <option value="$PROJECT_DIR$/OptionUser.cs" />
+        <option value="$PROJECT_DIR$/Register.cs" />
+        <option value="$PROJECT_DIR$/Register.Designer.cs" />
+        <option value="$PROJECT_DIR$/OptionUser.Designer.cs" />
       </list>
     </option>
   </component>
@@ -80,6 +83,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -103,7 +107,7 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -171,11 +175,14 @@
       <workItem from="1592069582103" duration="1942000" />
       <workItem from="1592273927221" duration="10200000" />
       <workItem from="1592357910154" duration="2361000" />
+      <workItem from="1592415508735" duration="1019000" />
+      <workItem from="1592416542891" duration="779000" />
+      <workItem from="1592417344918" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
@@ -184,37 +191,38 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592358400184">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592417599068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592358400184" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592358400184">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592417599068" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592417599068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592358400184" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592358400184">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592417599068" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592417599067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592358400184" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592358400184">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592417599067" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592417599068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592358400184" />
-    <state x="339" y="157" key="run.anything.popup" timestamp="1591069376149">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592417599068" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1592416330447">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591069376149" />
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592416330447" />
     <state x="405" y="280" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1591078752115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

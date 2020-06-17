@@ -11,9 +11,9 @@ namespace Arkanoid
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btn1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text == "")
+            if (tbx1.Text == "")
             {
                 MessageBox.Show("No dejar el campo vacio");
             }
@@ -41,7 +41,7 @@ namespace Arkanoid
                 Lista.lista.Add(d[0].ToString()); //Agregarlo a lista de clase estatica llamada Lista con su metodo.
             }
 
-            if (Lista.lista.Contains(textBox1.Text)) // Verificar en lista si existe un usuario.
+            if (Lista.lista.Contains(tbx1.Text)) // Verificar en lista si existe un usuario.
             {
                 MessageBox.Show("Este nombre ya esta registrado. Pruebe con otro nombre",
                     "Advertencia",MessageBoxButtons.OK,MessageBoxIcon.Warning);
@@ -49,7 +49,7 @@ namespace Arkanoid
 
             else
             {
-                User.nombre = textBox1.Text;
+                User.nombre = tbx1.Text;
 
                 Conexion.ExecuteNonQuery($"insert into usuario values ('{User.nombre}')"); 
                 MessageBox.Show("Se ha registrado"); 

@@ -10,18 +10,18 @@ namespace Arkanoid
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btn1_Click(object sender, EventArgs e)
         {
             OptionUser optionUser = new OptionUser();
             optionUser.Show();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btn2_Click(object sender, EventArgs e)
         {
             
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void btn3_Click(object sender, EventArgs e)
         {
             Close();
         }
