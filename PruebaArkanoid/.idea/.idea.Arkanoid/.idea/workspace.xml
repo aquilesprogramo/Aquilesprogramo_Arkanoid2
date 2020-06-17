@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4638245e-abd7-41ba-b0b2-77515ecc55a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OptionUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Conexion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Loading.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OptionUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Register.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Register.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Register.Designer.cs" />
+        <option value="$PROJECT_DIR$/OptionUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/Loading.Designer.cs" />
+        <option value="$PROJECT_DIR$/ListRecord.cs" />
+        <option value="$PROJECT_DIR$/Score.Designer.cs" />
+        <option value="$PROJECT_DIR$/Listscore.cs" />
+        <option value="$PROJECT_DIR$/ListScore.cs" />
+        <option value="$PROJECT_DIR$/prueba.cs" />
+        <option value="$PROJECT_DIR$/Lista.cs" />
+        <option value="$PROJECT_DIR$/Datos.cs" />
+        <option value="$PROJECT_DIR$/Nombre.cs" />
+        <option value="$PROJECT_DIR$/Usuario.cs" />
+        <option value="$PROJECT_DIR$/Actualizar.cs" />
+        <option value="$PROJECT_DIR$/User.cs" />
+        <option value="$PROJECT_DIR$/Conexion.cs" />
+        <option value="$PROJECT_DIR$/Score.cs" />
+        <option value="$PROJECT_DIR$/OptionUser.cs" />
+        <option value="$PROJECT_DIR$/Register.cs" />
+        <option value="$PROJECT_DIR$/Login.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/Loading.cs" />
+        <option value="$PROJECT_DIR$/Game.Designer.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1chP3nuaLUHXQkQy5D9B2fpvqTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Arkanoid" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Arkanoid.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4638245e-abd7-41ba-b0b2-77515ecc55a5" name="Default Changelist" comment="" />
+      <created>1590977654902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590977654902</updated>
+      <workItem from="1590977661455" duration="335000" />
+      <workItem from="1590978051394" duration="495000" />
+      <workItem from="1591015387381" duration="240000" />
+      <workItem from="1591015640874" duration="867000" />
+      <workItem from="1591016697664" duration="11044000" />
+      <workItem from="1591033240462" duration="135000" />
+      <workItem from="1591033403147" duration="254000" />
+      <workItem from="1591033731876" duration="1578000" />
+      <workItem from="1591066711101" duration="596000" />
+      <workItem from="1591068271820" duration="667000" />
+      <workItem from="1591069044251" duration="1262000" />
+      <workItem from="1591071103872" duration="1218000" />
+      <workItem from="1591073190439" duration="3288000" />
+      <workItem from="1591076733373" duration="101000" />
+      <workItem from="1591076933092" duration="430000" />
+      <workItem from="1591077435275" duration="105000" />
+      <workItem from="1591077583963" duration="47000" />
+      <workItem from="1591077834561" duration="519000" />
+      <workItem from="1591078362618" duration="335000" />
+      <workItem from="1591078704928" duration="1848000" />
+      <workItem from="1591111041014" duration="1651000" />
+      <workItem from="1591116694639" duration="436000" />
+      <workItem from="1591117181914" duration="2086000" />
+      <workItem from="1591119408179" duration="3697000" />
+      <workItem from="1591151554598" duration="602000" />
+      <workItem from="1591152929466" duration="2878000" />
+      <workItem from="1591156040333" duration="375000" />
+      <workItem from="1591156477565" duration="3443000" />
+      <workItem from="1591161846191" duration="1541000" />
+      <workItem from="1591189638737" duration="1402000" />
+      <workItem from="1591191136706" duration="202000" />
+      <workItem from="1591191492668" duration="964000" />
+      <workItem from="1591192876408" duration="582000" />
+      <workItem from="1591193774094" duration="608000" />
+      <workItem from="1591196858641" duration="2538000" />
+      <workItem from="1591202107686" duration="2957000" />
+      <workItem from="1591205261026" duration="21000" />
+      <workItem from="1591205658300" duration="12000" />
+      <workItem from="1591206567321" duration="693000" />
+      <workItem from="1591240041334" duration="962000" />
+      <workItem from="1591287804551" duration="269000" />
+      <workItem from="1591288637796" duration="402000" />
+      <workItem from="1591582801013" duration="2798000" />
+      <workItem from="1591586052733" duration="131000" />
+      <workItem from="1591586978254" duration="382000" />
+      <workItem from="1591587482245" duration="703000" />
+      <workItem from="1591591226460" duration="1961000" />
+      <workItem from="1591804397996" duration="61000" />
+      <workItem from="1591811458273" duration="5256000" />
+      <workItem from="1591888247636" duration="292000" />
+      <workItem from="1592008113078" duration="597000" />
+      <workItem from="1592069582103" duration="1942000" />
+      <workItem from="1592273927221" duration="10200000" />
+      <workItem from="1592357910154" duration="1173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592358400184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592358400184" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592358400184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592358400184" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592358400184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592358400184" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592358400184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592358400184" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1591069376149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591069376149" />
+    <state x="405" y="280" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1591078752115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="280" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1591078752115" />
+  </component>
+</project>

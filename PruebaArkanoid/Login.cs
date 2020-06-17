@@ -18,7 +18,7 @@ namespace Arkanoid
 
         private void usuario()
         {
-            var c = Conexion.ExecuteQuery($"select nombre_usuario from usuario");
+            var c = Conexion.ExecuteQuery($"select nombre from usuario");
 
             foreach (DataRow d in c.Rows)
             {

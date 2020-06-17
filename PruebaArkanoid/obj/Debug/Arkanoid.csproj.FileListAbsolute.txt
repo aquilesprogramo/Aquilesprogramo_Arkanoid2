@@ -1,0 +1,114 @@
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.csprojAssemblyReference.cache
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.pdb
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\Npgsql.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Buffers.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Memory.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Text.Json.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.ValueTuple.dll
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\Npgsql.pdb
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\Npgsql.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Buffers.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Memory.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Text.Json.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\bin\Debug\System.ValueTuple.xml
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.exe.config
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.Game.resources
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.csproj.CopyComplete
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.Login.resources
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.Register.resources
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.OptionUser.resources
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.Loading.resources
+C:\Users\Mirella\RiderProjects\Arkanoid\obj\Debug\Arkanoid.Score.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\Arkanoid.exe.config
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\Arkanoid.exe
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\Arkanoid.pdb
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\Npgsql.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Buffers.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Memory.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Text.Json.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.ValueTuple.dll
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\Npgsql.pdb
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\Npgsql.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Buffers.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Memory.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Text.Json.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\bin\Debug\System.ValueTuple.xml
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.exe.config
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.Form1.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.Game.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.Loading.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.Login.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.OptionUser.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.Register.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.Score.resources
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.csproj.CopyComplete
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.exe
+C:\Users\ricar\Desktop\Projecto Bajado\En_Este\En_Este\obj\Debug\Arkanoid.pdb
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\Arkanoid.exe
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\Npgsql.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Buffers.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Memory.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Text.Json.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.ValueTuple.dll
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\Npgsql.pdb
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\Npgsql.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Buffers.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Memory.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Text.Json.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\bin\Debug\System.ValueTuple.xml
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.exe.config
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.Form1.resources
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.Loading.resources
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.Login.resources
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.OptionUser.resources
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.Register.resources
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.csproj.CopyComplete
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.exe
+C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\PruebaArkanoid\obj\Debug\Arkanoid.pdb
