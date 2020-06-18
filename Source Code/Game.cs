@@ -6,8 +6,8 @@ namespace Arkanoid
     public partial class Game : Form
     {
         private static Random rand = new Random();
-        private int x = rand.Next(5,10);
-        private int t = rand.Next(5,10);
+        private int x = rand.Next(5,12);
+        private int t = rand.Next(5,12);
         private int life = 5;
         private int score=0;
         private int ScoreMax = 18;
