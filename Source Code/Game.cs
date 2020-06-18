@@ -92,7 +92,7 @@ namespace Arkanoid
                 if (life == 0)
                 {
                     timer1.Stop();
-                    MessageBox.Show("Tu record fue de: "+score);
+                    MessageBox.Show("Your record was: "+score);
                     
                     Conexion.ExecuteNonQuery($"insert into record(nombre_usuario, puntaje) values('{User.nombre}',{score})");
                     Close();
