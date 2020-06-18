@@ -128,6 +128,12 @@
         <Compile Include="Register.Designer.cs">
           <DependentUpon>Register.cs</DependentUpon>
         </Compile>
+        <Compile Include="Score.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Score.Designer.cs">
+          <DependentUpon>Score.cs</DependentUpon>
+        </Compile>
         <Compile Include="User.cs" />
         <EmbeddedResource Include="Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
@@ -155,6 +161,9 @@
         </Compile>
         <EmbeddedResource Include="Register.resx">
           <DependentUpon>Register.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Score.resx">
+          <DependentUpon>Score.cs</DependentUpon>
         </EmbeddedResource>
         <None Include="packages.config" />
         <None Include="Properties\Settings.settings">

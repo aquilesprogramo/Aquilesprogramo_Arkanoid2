@@ -38,25 +38,25 @@ namespace Arkanoid
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(48, 33);
+            this.label1.Location = new System.Drawing.Point(41, 29);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(139, 36);
+            this.label1.Size = new System.Drawing.Size(119, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "Ingrese su nombre";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(206, 47);
+            this.textBox1.Location = new System.Drawing.Point(177, 41);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(150, 23);
+            this.textBox1.Size = new System.Drawing.Size(129, 20);
             this.textBox1.TabIndex = 1;
             // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.button1.Location = new System.Drawing.Point(206, 102);
+            this.button1.Location = new System.Drawing.Point(177, 88);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(100, 47);
+            this.button1.Size = new System.Drawing.Size(86, 41);
             this.button1.TabIndex = 2;
             this.button1.Text = "Jugar";
             this.button1.UseVisualStyleBackColor = false;
@@ -64,10 +64,10 @@ namespace Arkanoid
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(453, 209);
+            this.ClientSize = new System.Drawing.Size(388, 181);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
@@ -78,10 +78,10 @@ namespace Arkanoid
             this.PerformLayout();
         }
 
-        #endregion
-
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBox1;
+
+        #endregion
     }
 }

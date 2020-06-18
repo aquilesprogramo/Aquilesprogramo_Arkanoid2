@@ -39,6 +39,9 @@
       <e p="Register.cs" t="Include" />
       <e p="Register.Designer.cs" t="Include" />
       <e p="Register.resx" t="Include" />
+      <e p="Score.cs" t="Include" />
+      <e p="Score.Designer.cs" t="Include" />
+      <e p="Score.resx" t="Include" />
       <e p="User.cs" t="Include" />
     </e>
   </component>
