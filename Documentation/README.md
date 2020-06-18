@@ -40,6 +40,9 @@
 **¿Mi nombre no sale en el High-Score?**
 <p>Solo saldrán los 10 mejores puntajes si no sale el suyo siga jugando hasta tener una puntuación mas alta. </p>
 
+**¿Como salgo del menú?**
+<p>Se presiona el botón de Exit</p>
+
 </br>
 
 #### Trello
