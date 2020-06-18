@@ -12,7 +12,7 @@ namespace Arkanoid
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var dt = Conexion.ExecuteQuery("select * from usuario");
+            var dt = Conexion.ExecuteQuery("SELECT nombre_usuario, puntaje FROM record ORDER BY puntaje DESC LIMIT 10");
             dataGridView1.DataSource = dt;
         }
     }
