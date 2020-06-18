@@ -74,6 +74,7 @@
         <option value="$PROJECT_DIR$/Login.Designer.cs" />
         <option value="$PROJECT_DIR$/Login.cs" />
         <option value="$PROJECT_DIR$/Register.cs" />
+        <option value="$PROJECT_DIR$/Try.Designer.cs" />
         <option value="$PROJECT_DIR$/Game.cs" />
       </list>
     </option>
@@ -189,6 +190,7 @@
       <workItem from="1592419705103" duration="4312000" />
       <workItem from="1592444430030" duration="1834000" />
       <workItem from="1592446813984" duration="5336000" />
+      <workItem from="1592455228863" duration="304000" />
     </task>
     <servers />
   </component>

@@ -30,22 +30,22 @@ namespace Arkanoid
                 x = -x;
             }
 
-            if (ball.Top < 0)
+            else if (ball.Top < 0)
             {
                 x = -x;
             }
             
-            if (ball.Right > ClientSize.Width)
+             else if (ball.Right > ClientSize.Width)
             {
                 t = -t;
             }
             
-            if (ball.Left < 0)
+             else if (ball.Left < 0)
             {
                 t = -t;
             }
 
-            if (ball.Bounds.IntersectsWith(mouse.Bounds))
+            else if (ball.Bounds.IntersectsWith(mouse.Bounds))
             {
                 x = -x;
             }
@@ -62,7 +62,7 @@ namespace Arkanoid
                     }
                 }
                 
-                if (s is Label && (string)s.Tag == "block")
+                else if (s is Label && (string)s.Tag == "block")
                 {
                     if (ball.Bounds.IntersectsWith(s.Bounds))
                     {
@@ -73,7 +73,7 @@ namespace Arkanoid
                         
                     }
                 }
-                if (s is Label && (string)s.Tag == "block2")
+                else if (s is Label && (string)s.Tag == "block2")
                 {
                     if (ball.Bounds.IntersectsWith(s.Bounds))
                     {
