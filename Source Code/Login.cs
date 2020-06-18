@@ -24,12 +24,17 @@ namespace Arkanoid
             {
                 Lista.lista.Add(d[0].ToString());
             }
-
-            if (Lista.lista.Contains(textBox1.Text))
+            
+            if (txt1.Text == "")
             {
-                User.nombre = textBox1.Text;
+                MessageBox.Show("Don't leave the field empty");
+            }
+
+            else if (Lista.lista.Contains(txt1.Text))
+            {
+                User.nombre = txt1.Text;
                 
-                MessageBox.Show("Bienvenido: "+User.nombre);
+                MessageBox.Show("Welcome: "+User.nombre);
                 
                     
                 Loading loading = new Loading();
@@ -41,7 +46,7 @@ namespace Arkanoid
 
             else
             {
-                MessageBox.Show("No se ha registrado");
+                MessageBox.Show("You haven't registered");
                 
                 Register register = new Register();
                 register.Show(); 

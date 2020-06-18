@@ -41,7 +41,7 @@
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(76, 45);
             this.btn1.TabIndex = 0;
-            this.btn1.Text = "Jugar";
+            this.btn1.Text = "Play";
             this.btn1.UseVisualStyleBackColor = true;
             this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
@@ -51,7 +51,7 @@
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(76, 45);
             this.btn2.TabIndex = 1;
-            this.btn2.Text = "Puntajes";
+            this.btn2.Text = "High-Score";
             this.btn2.UseVisualStyleBackColor = true;
             this.btn2.Click += new System.EventHandler(this.btn2_Click);
             // 
@@ -61,7 +61,7 @@
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(76, 45);
             this.btn3.TabIndex = 2;
-            this.btn3.Text = "Salir";
+            this.btn3.Text = "Exit";
             this.btn3.UseVisualStyleBackColor = true;
             this.btn3.Click += new System.EventHandler(this.btn3_Click);
             // 

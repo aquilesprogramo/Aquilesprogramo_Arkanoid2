@@ -31,36 +31,37 @@ namespace Arkanoid
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.lbl1 = new System.Windows.Forms.Label();
+            this.txt1 = new System.Windows.Forms.TextBox();
+            this.btn1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // lbl1
             // 
-            this.label1.Location = new System.Drawing.Point(41, 29);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 31);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Ingrese su nombre";
+            this.lbl1.Location = new System.Drawing.Point(41, 29);
+            this.lbl1.Name = "lbl1";
+            this.lbl1.Size = new System.Drawing.Size(119, 31);
+            this.lbl1.TabIndex = 0;
+            this.lbl1.Text = "Enter your name";
+            this.lbl1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
-            // textBox1
+            // txt1
             // 
-            this.textBox1.Location = new System.Drawing.Point(177, 41);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(129, 20);
-            this.textBox1.TabIndex = 1;
+            this.txt1.Location = new System.Drawing.Point(177, 41);
+            this.txt1.Name = "txt1";
+            this.txt1.Size = new System.Drawing.Size(129, 20);
+            this.txt1.TabIndex = 1;
             // 
-            // button1
+            // btn1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.button1.Location = new System.Drawing.Point(177, 88);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(86, 41);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "Jugar";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.btn1_Click);
+            this.btn1.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn1.Location = new System.Drawing.Point(177, 88);
+            this.btn1.Name = "btn1";
+            this.btn1.Size = new System.Drawing.Size(86, 41);
+            this.btn1.TabIndex = 2;
+            this.btn1.Text = "Log in";
+            this.btn1.UseVisualStyleBackColor = false;
+            this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
             // Login
             // 
@@ -68,19 +69,19 @@ namespace Arkanoid
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(388, 181);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btn1);
+            this.Controls.Add(this.txt1);
+            this.Controls.Add(this.lbl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Login";
-            this.Text = "Iniciar sesión";
+            this.Text = "Log in";
             this.ResumeLayout(false);
             this.PerformLayout();
         }
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button btn1;
+        private System.Windows.Forms.Label lbl1;
+        private System.Windows.Forms.TextBox txt1;
 
         #endregion
     }

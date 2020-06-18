@@ -69,7 +69,7 @@ namespace Arkanoid
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(92, 33);
             this.btn1.TabIndex = 1;
-            this.btn1.Text = "Actualizar";
+            this.btn1.Text = "Refresh";
             this.btn1.UseVisualStyleBackColor = true;
             this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
@@ -80,7 +80,7 @@ namespace Arkanoid
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Score";
-            this.Text = "Score";
+            this.Text = "High-Score";
             this.tableLayoutPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize) (this.dgv1)).EndInit();
             this.ResumeLayout(false);

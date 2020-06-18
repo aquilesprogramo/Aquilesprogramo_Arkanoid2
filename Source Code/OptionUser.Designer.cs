@@ -65,7 +65,7 @@ namespace Arkanoid
             this.Controls.Add(this.btn1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "OptionUser";
-            this.Text = "Opcion para jugar";
+            this.Text = "Option to Play";
             this.ResumeLayout(false);
         }
 

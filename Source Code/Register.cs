@@ -13,20 +13,20 @@ namespace Arkanoid
 
         private void btn1_Click(object sender, EventArgs e)
         {
-            if (tbx1.Text == "")
+            if (txt1.Text == "")
             {
-                MessageBox.Show("No dejar el campo vacio");
+                MessageBox.Show("Don't leave the field empty");
             }
 
             else
             {
                 try
                 {
-                    user(); // Funcion para agregar a un usuario nuevo.
+                    user(); // Function to add a new user.
                 }
                 catch (Exception)
                 {
-                    MessageBox.Show("Ha ocurrido un error");
+                    MessageBox.Show("There has been an error");
                 }
             }
         }
@@ -36,23 +36,23 @@ namespace Arkanoid
             
             var c = Conexion.ExecuteQuery($"select nombre from usuario");
 
-            foreach (DataRow d in c.Rows) // Recorrer todos los nombres en la base de datos.
+            foreach (DataRow d in c.Rows) // Runs through all the names in the data base.
             {
-                Lista.lista.Add(d[0].ToString()); //Agregarlo a lista de clase estatica llamada Lista con su metodo.
+                Lista.lista.Add(d[0].ToString()); //Add to the static list.
             }
 
-            if (Lista.lista.Contains(tbx1.Text)) // Verificar en lista si existe un usuario.
+            if (Lista.lista.Contains(txt1.Text)) // Verify if the name exists in the list.
             {
-                MessageBox.Show("Este nombre ya esta registrado. Pruebe con otro nombre",
-                    "Advertencia",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+                MessageBox.Show("This name has been registered. Try another name",
+                    "Warning",MessageBoxButtons.OK,MessageBoxIcon.Warning);
             }
 
             else
             {
-                User.nombre = tbx1.Text;
+                User.nombre = txt1.Text;
 
                 Conexion.ExecuteNonQuery($"insert into usuario values ('{User.nombre}')"); 
-                MessageBox.Show("Se ha registrado"); 
+                MessageBox.Show("You have registered succesfully"); 
                 Hide();
                 
                 Loading loading = new Loading(); 

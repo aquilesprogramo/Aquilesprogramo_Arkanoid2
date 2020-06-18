@@ -33,8 +33,8 @@ namespace Arkanoid
         {
             this.components = new System.ComponentModel.Container();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lbl1 = new System.Windows.Forms.Label();
+            this.lbl2 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
@@ -45,23 +45,23 @@ namespace Arkanoid
             this.progressBar1.Size = new System.Drawing.Size(315, 32);
             this.progressBar1.TabIndex = 0;
             // 
-            // label1
+            // lbl1
             // 
-            this.label1.Location = new System.Drawing.Point(66, 8);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(225, 45);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "ARKANOID";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lbl1.Location = new System.Drawing.Point(66, 8);
+            this.lbl1.Name = "lbl1";
+            this.lbl1.Size = new System.Drawing.Size(225, 45);
+            this.lbl1.TabIndex = 1;
+            this.lbl1.Text = "ARKANOID";
+            this.lbl1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label2
+            // lbl2
             // 
-            this.label2.Location = new System.Drawing.Point(66, 140);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(225, 25);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Cargando ";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lbl2.Location = new System.Drawing.Point(66, 140);
+            this.lbl2.Name = "lbl2";
+            this.lbl2.Size = new System.Drawing.Size(225, 25);
+            this.lbl2.TabIndex = 2;
+            this.lbl2.Text = "Loading";
+            this.lbl2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // timer1
             // 
@@ -73,8 +73,8 @@ namespace Arkanoid
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(374, 233);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lbl2);
+            this.Controls.Add(this.lbl1);
             this.Controls.Add(this.progressBar1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Loading";
@@ -82,8 +82,8 @@ namespace Arkanoid
             this.ResumeLayout(false);
         }
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lbl1;
+        private System.Windows.Forms.Label lbl2;
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.Timer timer1;
 
