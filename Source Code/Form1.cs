@@ -18,8 +18,6 @@ namespace Arkanoid
 
         private void btn2_Click(object sender, EventArgs e)
         {
-            Score score = new Score();
-            score.Show();
         }
 
         private void btn3_Click(object sender, EventArgs e)
