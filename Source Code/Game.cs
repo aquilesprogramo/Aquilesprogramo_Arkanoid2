@@ -6,11 +6,11 @@ namespace Arkanoid
     public partial class Game : Form
     {
         private static Random rand = new Random();
-        private int x = rand.Next(5,12);
-        private int t = rand.Next(5,12);
-        private int life = 5;
-        private int score=0;
-        private int ScoreMax = 18;
+        private int x = rand.Next(5,12);// Randomization to make the ball move differently.
+        private int t = rand.Next(5,12);// Randomization to make the ball move differently.
+        private int life = 5;// Total Lives.
+        private int score=0;// Initialization of Score.
+        private int ScoreMax = 18;// Maximum Score allowed.
 
         public Game()
         {
@@ -20,66 +20,66 @@ namespace Arkanoid
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            ball.Top += x; // Movimiento de pelota.
-            ball.Left += t; //Movimiento de pelota en curva.
-            lbl2.Text = "Score: " + score; 
-            lbl14.Text = "Life: " + life;
+            ball.Top += x; // Movement of the ball.
+            ball.Left += t; //Movement of the ball in a curve
+            lbl2.Text = "Score: " + score;// Showing the Score.
+            lbl14.Text = "Life: " + life;// Showing the lives left.
 
             if (ball.Bottom > ClientSize.Height)
             {
-                x = -x; // Si pelota toca base esta se regresa.
+                x = -x; // If the ball touches the bottom of the screen it bounces.
             }
 
             else if (ball.Top < 0)
             {
-                x = -x; // Si pelota toca Superficie se regresa.
+                x = -x; // If the ball touches the top of the screen it bounces.
             }
             
              else if (ball.Right > ClientSize.Width)
             {
-                t = -t; // Si pelota toca lado derecho hay movimiento curvo izquierdo.
+                t = -t; // If the ball touches the right side of the screen it bounces.
             }
             
              else if (ball.Left < 0)
             {
-                t = -t; //Si pelota toca lado izquierdo hay movimiento curvo derecho.
+                t = -t; // If the ball touches the left side of the screen it bouncess.
             }
 
             else if (ball.Bounds.IntersectsWith(mouse.Bounds))
             {
-                x = -x; //Si toca con el mouse el movimiento de la pelota regresa.
+                x = -x; // If the ball touches the paddle it bounces.
             }
             
-            foreach (Control s in Controls) // Recorre todos los blocks.
+            foreach (Control s in Controls) // Goes through all of the blocks.
             { 
                 
                 if (s is Label && (string)s.Tag == "block3")
                 {
-                    if (ball.Bounds.IntersectsWith(s.Bounds)) // Si pelota toca con alguno de los label.
+                    if (ball.Bounds.IntersectsWith(s.Bounds)) // If the ball touches the label.
                     {
-                        x = -x; // Si toca hay un rebote.
-                        Controls.Remove(s); // Se eliminan.
+                        x = -x; // It bounces.
+                        Controls.Remove(s); // It's removed.
                     }
                 }
                 
                 else if (s is Label && (string)s.Tag == "block")
                 {
-                    if (ball.Bounds.IntersectsWith(s.Bounds))
+                    if (ball.Bounds.IntersectsWith(s.Bounds)) // If the ball touches the label.
                     {
                         
-                        score += 2; //Valor de puntaje numero 2 para el usuario, segun block.
-                        x = -x;
-                        Controls.Remove(s);
+                        score += 2; //It adds 2 points to the score when it bounces.
+                        x = -x; // It bounces back.
+                        Controls.Remove(s); // It's removed.
                         
                     }
                 }
                 else if (s is Label && (string)s.Tag == "block2")
                 {
-                    if (ball.Bounds.IntersectsWith(s.Bounds))
+                    if (ball.Bounds.IntersectsWith(s.Bounds)) // If the ball touches the label.
                     {
-                        score += 1; // Valor de puntaje numero 1 para el usuario, segun el block.
-                        x = -x;
-                        Controls.Remove(s);
+                        score += 1; //It adds 1 points to the score when it bounces.
+                        x = -x; // It bounces back.
+                        Controls.Remove(s); // It's removed.
                     }
                 }
                 
@@ -88,21 +88,23 @@ namespace Arkanoid
             
             if (ball.Bottom > ClientSize.Height || score == ScoreMax)
             {
-                life--; // Aqui si la pelota toca la base el numero establecido de vida el programa termina.
+                life--; // If the ball touches the bottom of the screen then the lives are reduced by 1.
                 if (life == 0)
                 {
                     timer1.Stop();
                     MessageBox.Show("Your record was: "+score);
                     
-                    Conexion.ExecuteNonQuery($"insert into record(nombre_usuario, puntaje) values('{User.nombre}',{score})");
-                    Close(); // Linea 97 actualiza datos en base de datos del usuario.
+                    Conexion.ExecuteNonQuery($"insert into record(nombre_usuario, puntaje) " +
+                                             $"values('{User.nombre}',{score})"); // It updates the score
+                                                // in the database.
+                    Close(); //It closes 
                 }
             }
         }
 
         private void Game_MouseMove(object sender, MouseEventArgs e)
         {
-            mouse.Left = e.X - mouse.Width / 2; // Movimiento del mouse el linea horizontal.
+            mouse.Left = e.X - mouse.Width / 2; // Movement of the mouse in a horizontal way.
         }
     }
 }
