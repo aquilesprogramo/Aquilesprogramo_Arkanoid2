@@ -43,7 +43,8 @@ namespace Arkanoid
 
             if (Lista.lista.Contains(txt1.Text)) // Verify if the name exists in the list.
             {
-                MessageBox.Show("This name has been registered. Try another name",
+                MessageBox.Show("This name has been registered. Try registering another name" +
+                                " or login",
                     "Warning",MessageBoxButtons.OK,MessageBoxIcon.Warning);
             }
 
