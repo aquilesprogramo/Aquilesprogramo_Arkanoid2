@@ -38,26 +38,26 @@ namespace Arkanoid
             // 
             // lbl1
             // 
-            this.lbl1.Location = new System.Drawing.Point(33, 38);
+            this.lbl1.Location = new System.Drawing.Point(38, 44);
             this.lbl1.Name = "lbl1";
-            this.lbl1.Size = new System.Drawing.Size(119, 23);
+            this.lbl1.Size = new System.Drawing.Size(139, 27);
             this.lbl1.TabIndex = 0;
             this.lbl1.Text = "Enter your name";
             this.lbl1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
             // txt1
             // 
-            this.txt1.Location = new System.Drawing.Point(169, 42);
+            this.txt1.Location = new System.Drawing.Point(197, 48);
             this.txt1.Name = "txt1";
-            this.txt1.Size = new System.Drawing.Size(170, 20);
+            this.txt1.Size = new System.Drawing.Size(198, 23);
             this.txt1.TabIndex = 1;
             // 
             // btn1
             // 
-            this.btn1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.btn1.Location = new System.Drawing.Point(169, 83);
+            this.btn1.BackColor = System.Drawing.Color.MediumVioletRed;
+            this.btn1.Location = new System.Drawing.Point(197, 96);
             this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(87, 41);
+            this.btn1.Size = new System.Drawing.Size(101, 47);
             this.btn1.TabIndex = 2;
             this.btn1.Text = "Register";
             this.btn1.UseVisualStyleBackColor = false;
@@ -65,15 +65,16 @@ namespace Arkanoid
             // 
             // Register
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(447, 171);
+            this.BackColor = System.Drawing.Color.MediumOrchid;
+            this.ClientSize = new System.Drawing.Size(521, 197);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.txt1);
             this.Controls.Add(this.lbl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Register";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Register";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -188,3 +188,4 @@ C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\Sour
 C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\Source Code\obj\Debug\Arkanoid.exe
 C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\Source Code\obj\Debug\Arkanoid.pdb
 C:\Users\ricar\Desktop\Projecto\Projecto Arkanoid\Aquilesprogramo_Arkanoid2\Source Code\obj\Debug\Arkanoid.Score.resources
+C:\Users\Julio Alexander\Aquilesprogramo_Arkanoid2\Source Code\obj\Debug\Arkanoid.Score.resources
